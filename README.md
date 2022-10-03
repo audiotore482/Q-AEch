@@ -18,8 +18,8 @@ Q: Can I edit the code?
 A: Yes you can. Its licensed under the MIT license which you can do anything with the program :)
 
 Q: Is this a serious project?
-A: Yes and no. This project isn't going to be advertised or monitized
-Its just a simple hobbiest project to take up my time.
+A: Yes and no. This project isn't going to be advertised nor am I getting payed to do this.
+EchOS is a hobbiest project to take up my time. However we do seriously try and make the software better.
 
 Q: What language is it written in?
 A: C#
