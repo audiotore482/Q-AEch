@@ -3,18 +3,18 @@
 FAQ
 
 Q: When does EchOS get updates?
-A: Once every month. However if the update contains something big it may be delayed depending on how big it is.
+A: Normally once every month. Unless im busy with something and there maybe a couple of delays.
 
 
 Q: What is EchOS?
-A: EchOS is a hobbiest computer operating system with the purpose of being a dos operating system
+A: EchOS is a hobbiest computer operating system with the purpose of being a dos like operating system
 that can do MOST of the bare bone tasks that a regular operating system can. Like calculate, write text, look at the time, etc.
 Its also just a project to develop because oh what the heck ;)
 
 Q: Can you use EchOS as a main system?
 A: No no no and no. if your going to be switching over to EchOS as a main driver your going to be losing Almost ALL of functionality. That includes
 being able to install software to your computer, browse the internet. EchOS is just a shell with a couple of commands. So no its not worth it at all.
-If you want to test EchOS its highly recommend you use it in a virtual machine. Mostly vmware.
+If you want to test EchOS its highly recommend you use it in a virtual machine.
 
 Q: Can I edit the code?
 A: Yes you can. Its licensed under the gnu public license which you can edit the source code, Fork it and 
@@ -23,13 +23,16 @@ if you are planning on redistributing it you HAVE to also include the source cod
 
 Q: Is this a serious project?
 A: Yes and no. This project isn't going to be advertised nor am I getting payed to do this.
-EchOS is a hobbiest project to take up my time. However we do seriously try and make the software better.
+EchOS is a hobbiest project to take up my time. However I and my friend do seriously try and make the software better.
 
 Q: What language is it written in?
-A: C#
+A: Java
 
-Q: How is it possible to write a OS in C#?
-A: With the help of software of course. Cosmos is a project that enables to compile C# code over to bootable iso files.
+Q: How is it possible to write a OS in Java?
+A: That's because EchOS is not (technically) an Operating System. You either run it on
+top of your HostOS via the jar file. Or download the bootable ISO that boots into EchOS.
+Because the ISO is basically just A java program on top of debian. Not really an OS but
+I consider it one and I like it that way :)
 
 Q: How did you learn to code?
 A: By watching a bunch of youtube videos and following along then making my own projects with my knowledge.
@@ -43,8 +46,21 @@ A: C# and Java. Which is funny because both of these languages are pretty hated.
 Q: Isn't java for pyschopaths.
 A: Oh speaking of java I'm making a compiler using java :D What are you even gonna do about it?
 
-Q: What operating system do you use to develop?
-A: I used to use linux as my daily driver but now because of the problems I been having with linux I switched back to my cavehole that is windows.
-Windows is a lot less error prone compare to linux. Which is sad because I love linux and if it can do the all the tasks I want to do at a daily basis
-I would 500% switch back to it. Rather run good software developers are passionate about then have a 67 year old bill gates spy on me making an operating system
-that isn't his..
+Q: What operating system do you use?
+A: Linux. I have fully switched from Windows to linux.
+I daily drive it for pretty much everything. I had some issues I got those resolved :)
+I do everything on linux including development, browsing, gaming, work related stuff, etc.
+
+Q: Is there another developer?
+A: Sort of. He works on his own projects
+but he helps me out once in a blue moon.
+Richard5656 Go check him out :)
+
+Q: How long will this project last or when will it be done?
+A: I want this project to go on at least a couple of years
+or more then that.
+
+Q: What will you do if you really run out of ideas or when its done entirely.
+A: Honestly operating systems are really my thing so I may as well just do what
+microsoft did and create EchOS: NT (I know weird.) It's just that operating systems
+are super expandable and there are so many things you can add on to them.
